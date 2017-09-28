@@ -1,0 +1,20 @@
+baseurl = ""
+languageCode = "en-gb"
+title = "Sarah's Data Science Blog"
+theme = "hpstr-hugo-theme"
+pluralizelisttitles = false
+PygmentsCodeFences = true
+Paginate = 5
+disqusShortname = "hpstrhugo"
+
+[params]
+	subtitle = "Quick R Tutorials"
+	[params.author]
+		name = "Sarah Hutton"
+		avatar = "/images/FullSizeRender.jpg 2.jpeg"
+		bio = "Mercyhurst University Business Competitive Intelligence"
+		github = "shutto54"
+	[params.image]
+	  feature = "/images/IMG_6481.JPG"
+	  credit = "dargadgetz"
+	  creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
